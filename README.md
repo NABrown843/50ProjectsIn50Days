@@ -1,2 +1,4 @@
 # 50ProjectsIn50Days
- Projects from Brad Traversy's 50 Projects in 50 Days using HTML, CSS, and JavaScript
+ Projects from Brad Traversy's 50 Projects in 50 Days using HTML, CSS, and JavaScript  
+
+ I do some front end work in my day to day job, but I would be lying if I said I was as comfortable with front end as I am backend.  We rely heavily on telerik controls in our aspx pages and most of the magic is done with C#/Entity Framework/SQL.  I think this course is all about projects and I think I know enough to follow along and build my front end skills without having to take a beginner course.  Plus the relatively small commitment time of the course being broken down into 50 days is appealing.  I doubt I am going to jump to a frontend job and/or my job will take a turn to be more frontend heavy, so this is just for me to feel more comfortable on that side of things with no looming deadline.  Looking forward to starting this course.  
